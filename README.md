@@ -11,8 +11,8 @@ Asset scanning by dictionary stitching Domain to identify Exchange Servers versi
 
 直接上图
 
-[![pST4DzT.md.png](/Users/Monster/Desktop/RedTeam/picture/pST4DzT.md.png)](https://imgse.com/i/pST4DzT)
+![test1.png](/Users/Monster/Desktop/RedTeam/picture/djvtZC1gsQVlEwR-20230214225813309.png)
 
-[![pST44W6.md.png](/Users/Monster/Desktop/RedTeam/picture/pST44W6.md.png)](https://imgse.com/i/pST44W6)
+![test111.png](/Users/Monster/Desktop/RedTeam/picture/AzncejgZRuMsOh7.png)
 
-[![pST4ISK.md.png](/Users/Monster/Desktop/RedTeam/picture/pST4ISK.md.png)](https://imgse.com/i/pST4ISK)
+![testtt.png](/Users/Monster/Desktop/RedTeam/picture/Jirxq7LmQvSFYBo.png)
