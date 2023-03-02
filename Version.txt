@@ -1,0 +1,246 @@
+Exchange Server 2019 CU12 Jan23SU        15.2.1118.21
+Exchange Server 2019 CU12 Nov22SU        15.2.1118.20
+Exchange Server 2019 CU12 Oct22SU        15.2.1118.15
+Exchange Server 2019 CU12 Aug22SU        15.2.1118.12
+Exchange Server 2019 CU12 May22SU        15.2.1118.9
+Exchange Server 2019 CU12 (2022H1)         15.2.1118.7
+Exchange Server 2019 CU11 Feb23SU        15.2.986.41
+Exchange Server 2019 CU11 Jan23SU        15.2.986.37
+Exchange Server 2019 CU11 Nov22SU        15.2.986.36
+Exchange Server 2019 CU11 Oct22SU        15.2.986.30
+Exchange Server 2019 CU11 Aug22SU        15.2.986.29
+Exchange Server 2019 CU11 May22SU        15.2.986.26
+Exchange Server 2019 CU11 Mar22SU        15.2.986.22
+Exchange Server 2019 CU11 Jan22SU        15.2.986.15
+Exchange Server 2019 CU11 Nov21SU        15.2.986.14
+Exchange Server 2019 CU11 Oct21SU        15.2.986.9
+Exchange Server 2019 CU11        15.2.986.5
+Exchange Server 2019 CU10 Mar22SU        15.2.922.27
+Exchange Server 2019 CU10 Jan22SU        15.2.922.20
+Exchange Server 2019 CU10 Nov21SU        15.2.922.19
+Exchange Server 2019 CU10 Oct21SU        15.2.922.14
+Exchange Server 2019 CU10 Jul21SU        15.2.922.13
+Exchange Server 2019 CU10        15.2.922.7
+Exchange Server 2019 CU9 Jul21SU        15.2.858.15
+Exchange Server 2019 CU9 May21SU        15.2.858.12
+Exchange Server 2019 CU9 Apr21SU        15.2.858.10
+Exchange Server 2019 CU9        15.2.858.5
+Exchange Server 2019 CU8 May21SU        15.2.792.15
+Exchange Server 2019 CU8 Apr21SU        15.2.792.13
+Exchange Server 2019 CU8 Mar21SU        15.2.792.10
+Exchange Server 2019 CU8        15.2.792.3
+Exchange Server 2019 CU7 Mar21SU        15.2.721.13
+Exchange Server 2019 CU7        15.2.721.2
+Exchange Server 2019 CU6 Mar21SU        15.2.659.12
+Exchange Server 2019 CU6        15.2.659.4
+Exchange Server 2019 CU5 Mar21SU        15.2.595.8
+Exchange Server 2019 CU5        15.2.595.3
+Exchange Server 2019 CU4 Mar21SU        15.2.529.13
+Exchange Server 2019 CU4        15.2.529.5
+Exchange Server 2019 CU3 Mar21SU        15.2.464.15
+Exchange Server 2019 CU3        15.2.464.5
+Exchange Server 2019 CU2 Mar21SU        15.2.397.11
+Exchange Server 2019 CU2        15.2.397.3
+Exchange Server 2019 CU1 Mar21SU        15.2.330.11
+Exchange Server 2019 CU1        15.2.330.5
+Exchange Server 2019 RTM Mar21SU        15.2.221.18
+Exchange Server 2019 RTM        15.2.221.12
+Exchange Server 2019 Preview        15.2.196.0
+Exchange Server 2016 CU23 Feb23SU        15.1.2507.21
+Exchange Server 2016 CU23 Jan23SU        15.1.2507.17
+Exchange Server 2016 CU23 Nov22SU        15.1.2507.16
+Exchange Server 2016 CU23 Oct22SU        15.1.2507.13
+Exchange Server 2016 CU23 Aug22SU        15.1.2507.12
+Exchange Server 2016 CU23 May22SU        15.1.2507.9
+Exchange Server 2016 CU23 (2022H1)         15.1.2507.6
+Exchange Server 2016 CU22 Nov22SU        15.1.2375.37
+Exchange Server 2016 CU22 Oct22SU        15.1.2375.32
+Exchange Server 2016 CU22 Aug22SU        15.1.2375.31
+Exchange Server 2016 CU22 May22SU        15.1.2375.28
+Exchange Server 2016 CU22 Mar22SU        15.1.2375.24
+Exchange Server 2016 CU22 Jan22SU        15.1.2375.18
+Exchange Server 2016 CU22 Nov21SU        15.1.2375.17
+Exchange Server 2016 CU22 Oct21SU        15.1.2375.12
+Exchange Server 2016 CU22        15.1.2375.7
+Exchange Server 2016 CU21 Mar22SU        15.1.2308.27
+Exchange Server 2016 CU21 Jan22SU        15.1.2308.21
+Exchange Server 2016 CU21 Nov21SU        15.1.2308.20
+Exchange Server 2016 CU21 Oct21SU        15.1.2308.15
+Exchange Server 2016 CU21 Jul21SU        15.1.2308.14
+Exchange Server 2016 CU21        15.1.2308.8
+Exchange Server 2016 CU20 Jul21SU        15.1.2242.12
+Exchange Server 2016 CU20 May21SU        15.1.2242.10
+Exchange Server 2016 CU20 Apr21SU        15.1.2242.8
+Exchange Server 2016 CU20        15.1.2242.4
+Exchange Server 2016 CU19 May21SU        15.1.2176.14
+Exchange Server 2016 CU19 Apr21SU        15.1.2176.12
+Exchange Server 2016 CU19 Mar21SU        15.1.2176.9
+Exchange Server 2016 CU19        15.1.2176.2
+Exchange Server 2016 CU18 Mar21SU        15.1.2106.13
+Exchange Server 2016 CU18        15.1.2106.2
+Exchange Server 2016 CU17 Mar21SU        15.1.2044.13
+Exchange Server 2016 CU17        15.1.2044.4
+Exchange Server 2016 CU16 Mar21SU        15.1.1979.8
+Exchange Server 2016 CU16        15.1.1979.3
+Exchange Server 2016 CU15 Mar21SU        15.1.1913.12
+Exchange Server 2016 CU15        15.1.1913.5
+Exchange Server 2016 CU14 Mar21SU        15.1.1847.12
+Exchange Server 2016 CU14        15.1.1847.3
+Exchange Server 2016 CU13 Mar21SU        15.1.1779.8
+Exchange Server 2016 CU13        15.1.1779.2
+Exchange Server 2016 CU12 Mar21SU        15.1.1713.10
+Exchange Server 2016 CU12        15.1.1713.5
+Exchange Server 2016 CU11 Mar21SU        15.1.1591.18
+Exchange Server 2016 CU11        15.1.1591.10
+Exchange Server 2016 CU10 Mar21SU        15.1.1531.12
+Exchange Server 2016 CU10        15.1.1531.3
+Exchange Server 2016 CU9 Mar21SU        15.1.1466.16
+Exchange Server 2016 CU9        15.1.1466.3
+Exchange Server 2016 CU8 Mar21SU        15.1.1415.10
+Exchange Server 2016 CU8        15.1.1415.2
+Exchange Server 2016 CU7        15.1.1261.35
+Exchange Server 2016 CU6        15.1.1034.26
+Exchange Server 2016 CU5        15.1.845.34
+Exchange Server 2016 CU4        15.1.669.32
+Exchange Server 2016 CU3        15.1.544.27
+Exchange Server 2016 CU2        15.1.466.34
+Exchange Server 2016 CU1        15.1.396.30
+Exchange Server 2016 RTM        15.1.225.42
+Exchange Server 2016 Preview        15.1.225.16
+Exchange Server 2013 CU23 Feb23SU        15.0.1497.47
+Exchange Server 2013 CU23 Jan23SU        15.0.1497.45
+Exchange Server 2013 CU23 Nov22SU        15.0.1497.44
+Exchange Server 2013 CU23 Oct22SU        15.0.1497.42
+Exchange Server 2013 CU23 Aug22SU        15.0.1497.40
+Exchange Server 2013 CU23 May22SU        15.0.1497.36
+Exchange Server 2013 CU23 Mar22SU        15.0.1497.33
+Exchange Server 2013 CU23 Jan22SU        15.0.1497.28
+Exchange Server 2013 CU23 Nov21SU        15.0.1497.26
+Exchange Server 2013 CU23 Oct21SU        15.0.1497.24
+Exchange Server 2013 CU23 Jul21SU        15.0.1497.23
+Exchange Server 2013 CU23 May21SU        15.0.1497.18
+Exchange Server 2013 CU23 Apr21SU        15.0.1497.15
+Exchange Server 2013 CU23 Mar21SU        15.0.1497.12
+Exchange Server 2013 CU23        15.0.1497.2
+Exchange Server 2013 CU22 Mar21SU        15.0.1473.6
+Exchange Server 2013 CU22        15.0.1473.3
+Exchange Server 2013 CU21 Mar21SU        15.0.1395.12
+Exchange Server 2013 CU21        15.0.1395.4
+Exchange Server 2013 CU20        15.0.1367.3
+Exchange Server 2013 CU19        15.0.1365.1
+Exchange Server 2013 CU18        15.0.1347.2
+Exchange Server 2013 CU17        15.0.1320.4
+Exchange Server 2013 CU16        15.0.1293.2
+Exchange Server 2013 CU15        15.0.1263.5
+Exchange Server 2013 CU14        15.0.1236.3
+Exchange Server 2013 CU13        15.0.1210.3
+Exchange Server 2013 CU12        15.0.1178.4
+Exchange Server 2013 CU11        15.0.1156.6
+Exchange Server 2013 CU10        15.0.1130.7
+Exchange Server 2013 CU9        15.0.1104.5
+Exchange Server 2013 CU8        15.0.1076.9
+Exchange Server 2013 CU7        15.0.1044.25
+Exchange Server 2013 CU6        15.0.995.29
+Exchange Server 2013 CU5        15.0.913.22
+Exchange Server 2013 SP1 Mar21SU        15.0.847.64
+Exchange Server 2013 SP1        15.0.847.32
+Exchange Server 2013 CU3        15.0.775.38
+Exchange Server 2013 CU2        15.0.712.24
+Exchange Server 2013 CU1        15.0.620.29
+Exchange Server 2013 RTM        15.0.516.32
+Exchange Server 2010 SP3 更新汇总 32        14.3.513.0
+Exchange Server 2010 SP3 更新汇总 31        14.3.509.0
+Exchange Server 2010 SP3 更新汇总 30        14.3.496.0
+Exchange Server 2010 SP3 更新汇总 29        14.3.468.0
+Exchange Server 2010 SP3 更新汇总 28        14.3.461.1
+Exchange Server 2010 SP3 更新汇总 27        14.3.452.0
+Exchange Server 2010 SP3 更新汇总 26        14.3.442.0
+Exchange Server 2010 SP3 更新汇总 25        14.3.435.0
+Exchange Server 2010 SP3 更新汇总 24        14.3.419.0
+Exchange Server 2010 SP3 更新汇总 23        14.3.417.1
+Exchange Server 2010 SP3 更新汇总 22        14.3.411.0
+Exchange Server 2010 SP3 更新汇总 21        14.3.399.2
+Exchange Server 2010 SP3 更新汇总 20        14.3.389.1
+Exchange Server 2010 SP3 更新汇总 19        14.3.382.0
+Exchange Server 2010 SP3 更新汇总 18        14.3.361.1
+Exchange Server 2010 SP3 更新汇总 17        14.3.352.0
+Exchange Server 2010 SP3 更新汇总 16        14.3.336.0
+Exchange Server 2010 SP3 更新汇总 15        14.3.319.2
+Exchange Server 2010 SP3 更新汇总 14        14.3.301.0
+Exchange Server 2010 SP3 更新汇总 13        14.3.294.0
+Exchange Server 2010 SP3 更新汇总 12        14.3.279.2
+Exchange Server 2010 SP3 更新汇总 11        14.3.266.2
+Exchange Server 2010 SP3 更新汇总 10        14.3.248.2
+Exchange Server 2010 SP3 更新汇总 9        14.3.235.1
+Exchange Server 2010 SP3 更新汇总 8 v2        14.3.224.2
+Exchange Server 2010 SP3 更新汇总 8 v1（<a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-releases-december-2014/ba-p/584630" data-linktype="external">已撤回</a>）        14.3.224.1
+Exchange Server 2010 SP3 更新汇总 7        14.3.210.2
+Exchange Server 2010 SP3 更新汇总 6        14.3.195.1
+Exchange Server 2010 SP3 更新汇总 5        14.3.181.6
+Exchange Server 2010 SP3 更新汇总 4        14.3.174.1
+Exchange Server 2010 SP3 更新汇总 3        14.3.169.1
+Exchange Server 2010 SP3 更新汇总 2        14.3.158.1
+Exchange Server 2010 SP3 更新汇总 1        14.3.146.0
+Exchange Server 2010 SP3        14.3.123.4
+Exchange Server 2010 SP2 更新汇总 8        14.2.390.3
+Exchange Server 2010 SP2 更新汇总 7        14.2.375.0
+Exchange Server 2010 SP2 更新汇总 6        14.2.342.3
+Exchange Server 2010 SP2 更新汇总 5 v2        14.2.328.10
+Exchange Server 2010 SP2 更新汇总 5        14.3.328.5
+Exchange Server 2010 SP2 更新汇总 4 v2        14.2.318.4
+Exchange Server 2010 SP2 更新汇总 4        14.2.318.2
+Exchange Server 2010 SP2 更新汇总 3        14.2.309.2
+Exchange Server 2010 SP2 更新汇总 2        14.2.298.4
+Exchange Server 2010 SP2 更新汇总 1        14.2.283.3
+Exchange Server 2010 SP2        14.2.247.5
+Exchange Server 2010 SP1 更新汇总 8        14.1.438.0
+Exchange Server 2010 SP1 更新汇总 7 v3        14.1.421.3
+Exchange Server 2010 SP1 更新汇总 7 v2        14.1.421.2
+Exchange Server 2010 SP1 更新汇总 7        14.1.421.0
+Exchange Server 2010 SP1 更新汇总 6        14.1.355.2
+Exchange Server 2010 SP1 更新汇总 5        14.1.339.1
+Exchange Server 2010 SP1 更新汇总 4        14.1.323.6
+Exchange Server 2010 SP1 更新汇总 3        14.1.289.7
+Exchange Server 2010 SP1 更新汇总 2        14.1.270.1
+Exchange Server 2010 SP1 更新汇总 1        14.1.255.2
+Exchange Server 2010 SP1        14.1.218.15
+Exchange Server 2010 更新汇总 5        14.0.726.0
+Exchange Server 2010 更新汇总 4        14.0.702.1
+Exchange Server 2010 更新汇总 3        14.0.694.0
+Exchange Server 2010 更新汇总 2        14.0.689.0
+Exchange Server 2010 更新汇总 1        14.0.682.1
+Exchange Server 2010 RTM        14.0.639.21
+Exchange Server 2007 SP3 更新汇总 23        8.3.517.0
+Exchange Server 2007 SP3 更新汇总 22        8.3.502.0
+Exchange Server 2007 SP3 更新汇总 21        8.3.485.1
+Exchange Server 2007 SP3 更新汇总 20        8.3.468.0
+Exchange Server 2007 SP3 更新汇总 19        8.3.459.0
+Exchange Server 2007 SP3 更新汇总 18        8.3.445.0
+Exchange Server 2007 SP3 更新汇总 17        8.3.417.1
+Exchange Server 2007 SP3 更新汇总 16        8.3.406.0
+Exchange Server 2007 SP3 更新汇总 15        8.3.389.2
+Exchange Server 2007 SP3 更新汇总 14        8.3.379.2
+Exchange Server 2007 SP3 更新汇总 13        8.3.348.2
+Exchange Server 2007 SP3 更新汇总 12        8.3.342.4
+Exchange Server 2007 SP3 更新汇总 11        8.3.327.1
+Exchange Server 2007 SP3 更新汇总 10        8.3.298.3
+Exchange Server 2007 SP3 更新汇总 9        8.3.297.2
+Exchange Server 2007 SP3 更新汇总 8-v3        8.3.279.6
+Exchange Server 2007 SP3 更新汇总 8-v2        8.3.279.5
+Exchange Server 2007 SP3 更新汇总 8        8.3.279.3
+Exchange Server 2007 SP3 更新汇总 7        8.3.264.0
+Exchange Server 2007 SP3 更新汇总 6        8.3.245.2
+Exchange Server 2007 SP3 更新汇总 5        8.3.213.1
+Exchange Server 2007 SP3 更新汇总 4        8.3.192.1
+Exchange Server 2007 SP3 更新汇总 3-v2        8.3.159.2
+Exchange Server 2007 SP3 更新汇总 2        8.3.137.3
+Exchange Server 2007 SP3 更新汇总 1        8.3.106.2
+Exchange Server 2007 SP3        8.3.83.6
+Exchange Server 2007 SP2 更新汇总 5        8.2.305.3
+Exchange Server 2007 SP2 更新汇总 4        8.2.254.0
+Exchange Server 2007 SP2 更新汇总 3        8.2.247.2
+Exchange Server 2007 SP2 更新汇总 2        8.2.234.1
+Exchange Server 2007 SP2 更新汇总 1        8.2.217.3
+Exchange Server 2007 SP2        8.2.176.2
+Exchange Server 2007 SP1 更新汇总 10        8.1.436.0
+Exchange Server 2007 SP1 更新汇总 9        8.1.393.1

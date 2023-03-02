@@ -9,12 +9,14 @@ Asset scanning by dictionary stitching Domain to identify Exchange Servers versi
 
 可以自己搜集添加域名前缀，并加入到doamin.txt中,来增加爆破几率
 
+修复了一些bug以及更新了规则，使用之前先输入./ExchangePE -update 1 更新一下版本，再进行使用，不再只依赖网络匹配
+
 直接上图
 
 
 
-![test1.png](https://s2.loli.net/2023/02/14/djvtZC1gsQVlEwR.png)
+[![ppFc1ds.png](https://s1.ax1x.com/2023/03/02/ppFc1ds.png)](https://imgse.com/i/ppFc1ds)
 
-![testtt.png](https://s2.loli.net/2023/02/14/Jirxq7LmQvSFYBo.png)
+[![ppFcdL4.png](https://s1.ax1x.com/2023/03/02/ppFcdL4.png)](https://imgse.com/i/ppFcdL4)
 
-![test111.png](https://s2.loli.net/2023/02/14/AzncejgZRuMsOh7.png)
+[![ppFc0eJ.png](https://s1.ax1x.com/2023/03/02/ppFc0eJ.png)](https://imgse.com/i/ppFc0eJ)
